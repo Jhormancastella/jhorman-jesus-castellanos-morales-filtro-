@@ -1,0 +1,26 @@
+{
+    "data": {
+        "1034": {
+            "identificacion": "1034",
+            "nombreTrabajador": "jj",
+            "cargo": [
+                "Almacenista",
+                "jefe IT",
+                "Administrador",
+                "Mensajero",
+                "Gerente"
+            ]
+        },
+        "1090": {
+            "identificacion": "1090",
+            "nombreTrabajador": "rosy",
+            "cargo": [
+                "Almacenista",
+                "jefe IT",
+                "Administrador",
+                "Mensajero",
+                "Gerente"
+            ]
+        }
+    }
+}
